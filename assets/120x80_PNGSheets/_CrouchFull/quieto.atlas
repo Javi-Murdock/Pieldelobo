@@ -1,0 +1,15 @@
+quieto.png
+size: 33, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+_CrouchFull-0
+  bounds: 1, 1, 31, 32
+  offsets: 2, 0, 40, 40
+_CrouchFull-1
+  bounds: 1, 35, 31, 28
+  offsets: 2, 0, 40, 40
+_CrouchFull-2
+  bounds: 1, 1, 31, 32
+  offsets: 2, 0, 40, 40

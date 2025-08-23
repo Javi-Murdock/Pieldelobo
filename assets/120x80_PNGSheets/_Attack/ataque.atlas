@@ -1,0 +1,19 @@
+ataque.png
+size: 242, 46
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+_Attack-0
+  bounds: 203, 1, 41, 38
+  offsets: 35, 0, 120, 80
+  rotate: 90
+_Attack-1
+  bounds: 1, 1, 68, 44
+  offsets: 50, 0, 120, 80
+_Attack-2
+  bounds: 71, 1, 67, 37
+  offsets: 52, 0, 120, 80
+_Attack-3
+  bounds: 140, 1, 61, 36
+  offsets: 52, 0, 120, 80
