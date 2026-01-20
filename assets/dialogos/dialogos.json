@@ -1,0 +1,362 @@
+[
+  {
+    "id": "profesor_leiva_inicio",
+    "personaje": "Profesor Leiva",
+    "texto": "Así que tú eres el nuevo, el agente PieldeLobo, un gusto conocerte. Ya trabajé anteriormente con tu abuelo.",
+    "opciones": [
+      {
+        "texto": "Así, ¿puede contarme sobre él?",
+        "destino": "profesor_leiva_abuelo_video"
+      },
+      {
+        "texto": "No me compare con nadie",
+        "destino": "profesor_leiva_molesto"
+      }
+    ]
+  },
+  {
+    "id": "profesor_leiva_abuelo_video",
+    "personaje": "Profesor Leiva",
+    "texto": "Por supuesto, fue uno de nuestros agentes de campo. Aún recuerdo como fue su primera misión por la villa de Allariz. Tal vez te vendría bien un poco de entrenamiento por ahí."
+  },
+  {
+    "id": "profesor_leiva_molesto",
+    "personaje": "Profesor Leiva",
+    "texto": "¡Vale, vale! Que genio tiene el nuevo, si tienes tan carácter déjame tranquilo, tengo muchas cosas que hacer."
+  },
+  {
+    "id": "doctor_salazar_inicio",
+    "personaje": "Doctor Salazar",
+    "texto": "Buenas chaval, no habrás visto por casualidad un Trasgu por aquí.",
+    "opciones": [
+      {
+        "texto": "¿Un qué?",
+        "destino": "doctor_salazar_nosabe"
+      },
+      {
+        "texto": "El enano de la recepción",
+        "destino": "doctor_salazar_pelicula"
+      }
+    ]
+  },
+  {
+    "id": "doctor_salazar_nosabe",
+    "personaje": "Doctor Salazar",
+    "texto": "Veo que en criptología ibérica andas algo flojo."
+  },
+  {
+    "id": "doctor_salazar_pelicula",
+    "personaje": "Doctor Salazar",
+    "texto": "No ese es el profesor Vega, jaja, ahora en serio tengo que encontrarlo antes de que se escape otra vez."
+  },
+  {
+    "id": "doctora_garcia_inicio",
+    "personaje": "Doctora García",
+    "texto": "Encantado de conocerte novato, deberías hablar con el profesor Leiva a ver que tiene preparado para ti."
+  },
+  {
+    "id": "profesor_vega_inicio",
+    "personaje": "Profesor Vega",
+    "texto": "En qué demonios estaban pensando, mandando cuando contrataron a alguien cuya única referencia es ser nieto de..."
+  },
+  {
+    "id": "marta_santos_inicio",
+    "personaje": "Marta Santos",
+    "texto": "Bienvenido al curro."
+  },
+  {
+    "id": "jose_castellanos_inicio",
+    "personaje": "José Castellanos",
+    "texto": "Bienvenido al edificio, no grites mucho que hay gente trabajando."
+  },
+  {
+    "id": "profesor_vega_puerta2",
+    "personaje": "Profesor Vega",
+    "texto": "Por lo que veo te has envuelto bien en tu primera misión. ¿Qué tal si pruebas con algo más desafiante?",
+    "opciones": [
+      {
+        "texto": "¡Pues claro que sí!",
+        "destino": "profesor_vega_puerta2_opcion1"
+      },
+      {
+        "texto": "Gracias",
+        "destino": "profesor_vega_puerta2_opcion2"
+      }
+    ]
+  },
+  {
+    "id": "profesor_vega_puerta2_opcion1",
+    "personaje": "Profesor Vega",
+    "texto": "Jajaja, me estás empezando a caer bien. Venga, prueba con tu siguiente misión."
+  },
+  {
+    "id": "profesor_vega_puerta2_opcion2",
+    "personaje": "Profesor Vega",
+    "texto": "Tienes menos sangre que una morcilla vegana."
+  },
+  {
+    "id": "doctora_garcia_puerta3",
+    "personaje": "Doctora García",
+    "texto": "Buenas Pieldelobo, veo que estás siendo bueno en esto. ¿Podrías hacerme un favor?",
+    "opciones": [
+      {
+        "texto": "Claro",
+        "destino": "doctora_garcia_puerta3_claro"
+      },
+      {
+        "texto": "Estoy ocupado",
+        "destino": "doctora_garcia_puerta3_ocupado"
+      }
+    ]
+  },
+  {
+    "id": "doctora_garcia_puerta3_claro",
+    "personaje": "Doctora García",
+    "texto": "Estupendo, puedes tomar unos pocos datos por el nivel 3 y traérmelos, gracias."
+  },
+  {
+    "id": "doctora_garcia_puerta3_ocupado",
+    "personaje": "Doctora García",
+    "texto": "Esta bien, tal vez más tarde."
+  },
+  {
+    "id": "profesor_leiva_puerta4",
+    "personaje": "Profesor Leiva",
+    "texto": "No está nada mal. Si tienes tiempo, puedo contarte cómo funcionan las puertas.",
+    "opciones": [
+      {
+        "texto": "Ahora estoy ocupado",
+        "destino": "profesor_leiva_puerta4_ocupado"
+      },
+      {
+        "texto": "Pues claro",
+        "destino": "profesor_leiva_puerta4_claro"
+      }
+    ]
+  },
+  {
+    "id": "profesor_leiva_puerta4_ocupado",
+    "personaje": "Profesor Leiva",
+    "texto": "Tienes razón, será mejor que sigas avanzando."
+  },
+  {
+    "id": "profesor_leiva_puerta4_claro",
+    "personaje": "Profesor Leiva",
+    "texto": "Pues todo empezó con ..., bla bla bla bla... Pero te has dormido de pie ¡Despierta!"
+  },
+  {
+    "id": "doctor_salazar_puerta5",
+    "personaje": "Doctor Salazar",
+    "texto": "Tu último trabajo es en el castillo de Montalbán. ¿Te suena el caso de Romasanta?",
+    "opciones": [
+      {
+        "texto": "¿Qué tendrá que ver eso ahora?",
+        "destino": "doctor_salazar_puerta5_nosabe"
+      },
+      {
+        "texto": "Solo por la película",
+        "destino": "doctor_salazar_puerta5_pelicula"
+      }
+    ]
+  },
+  {
+    "id": "doctor_salazar_puerta5_nosabe",
+    "personaje": "Doctor Salazar",
+    "texto": "Pues si no sabes la historia de la zona, tal vez no deberías ir."
+  },
+  {
+    "id": "doctor_salazar_puerta5_pelicula",
+    "personaje": "Doctor Salazar",
+    "texto": "Pues no es buena fuente, en términos generales, fue un hombre lobo gallego que cometió varios crímenes, tras su muerte sus seguidores licántropos formaron la hermandad en su nombre y se asediaron por Toledo, fue una guerra dura, pero ahora las vistas son preciosas, disfrútalas."
+  },
+  {
+    "id": "profesor_leiva_puerta2_bien",
+    "personaje": "Profesor Leiva",
+    "texto": "Buen trabajo, sigue así y te irá bien por aquí."
+  },
+  {
+    "id": "doctora_garcia_puerta2_bien",
+    "personaje": "Doctora García",
+    "texto": "El profesor Leiva me comentó lo bien que lo hiciste, sigue así."
+  },
+  {
+    "id": "doctor_salazar_puerta2",
+    "personaje": "Doctor Salazar",
+    "texto": "Menos mal que el Trasgu apareció, esta vez estaba en la Puerta del Sol cobrando por fotos con él."
+  },
+  {
+    "id": "marta_santos_puerta2",
+    "personaje": "Marta Santos",
+    "texto": "Hola chico, estoy con los archivos de los expedientes de este año, ¿sabes de lo que hablo?",
+    "opciones": [
+      {
+        "texto": "no",
+        "destino": "marta_santos_puerta2_no"
+      },
+      {
+        "texto": "si",
+        "destino": "marta_santos_puerta2_si"
+      }
+    ]
+  },
+  {
+    "id": "marta_santos_puerta2_no",
+    "personaje": "Marta Santos",
+    "texto": "Tranquilo, que ya los sabrás."
+  },
+  {
+    "id": "marta_santos_puerta2_si",
+    "personaje": "Marta Santos",
+    "texto": "Pues si ya conoces este pesar me podrías ayudar, jajaja..."
+  },
+  {
+    "id": "jose_castellanos_puerta2",
+    "personaje": "José Castellanos",
+    "texto": "hola que tal, no me pises por ahí que esta recién fregado"
+  },
+  {
+    "id": "profesor_leiva_puerta3",
+    "personaje": "Profesor Leiva",
+    "texto": "Ya van dos, nada mal, tu abuelo estaría orgulloso de ti."
+  },
+  {
+    "id": "profesor_vega_puerta3",
+    "personaje": "Profesor Vega",
+    "texto": "Me estás haciendo pensar que me equivocaba contigo, pero es que con el enchufismo no puedo."
+  },
+  {
+    "id": "doctor_salazar_puerta3",
+    "personaje": "Doctor Salazar",
+    "texto": "No se lo digas a nadie, pero le compré un bebé dragón al buhonero de confianza.",
+    "opciones": [
+      {
+        "texto": "En serio, ¿puedo verlo?",
+        "destino": "doctor_salazar_puerta3_verlo"
+      },
+      {
+        "texto": "¿Eso es legal?",
+        "destino": "doctor_salazar_puerta3_legal"
+      }
+    ]
+  },
+  {
+    "id": "doctor_salazar_puerta3_verlo",
+    "personaje": "Doctor Salazar",
+    "texto": "Después de lo que le pasó al último que me lo pidió mejor no."
+  },
+  {
+    "id": "doctor_salazar_puerta3_legal",
+    "personaje": "Doctor Salazar",
+    "texto": "Ehhhhh..., un segundo que me llega un WhatsApp."
+  },
+  {
+    "id": "marta_santos_puerta3",
+    "personaje": "Marta Santos",
+    "texto": "Por fin terminé todo el papeleo. Me voy a dormir a la sala de descanso, si preguntan estoy en una reunión."
+  },
+  {
+    "id": "jose_castellanos_puerta3",
+    "personaje": "José Castellanos",
+    "texto": "Tengo que ir a reparar la máquina de café otra vez, con lo malo que está casi que mejor así."
+  },
+  {
+    "id": "profesor_vega_puerta4",
+    "personaje": "Profesor Vega",
+    "texto": "Tengo un dolor de espalda mayúsculo y tú ahí tan bien, que asco de vida."
+  },
+  {
+    "id": "doctora_garcia_puerta4",
+    "personaje": "Doctora García",
+    "texto": "Gracias por las muestras, ahora podré ganar la apuesta que hice con Serra.",
+    "opciones": [
+      {
+        "texto": "He arriesgado la vida por una apuesta",
+        "destino": "doctora_garcia_puerta4_apuesta"
+      },
+      {
+        "texto": "Pues quiero comisión",
+        "destino": "doctora_garcia_puerta4_comision"
+      }
+    ]
+  },
+  {
+    "id": "doctora_garcia_puerta4_apuesta",
+    "personaje": "Doctora García",
+    "texto": "Claro que no sabía que lo lograrías, por lo que gané también la otra apuesta."
+  },
+  {
+    "id": "doctora_garcia_puerta4_comision",
+    "personaje": "Doctora García",
+    "texto": "Eres cruel pero justo, pídeselo a Serra."
+  },
+  {
+    "id": "doctor_salazar_puerta4",
+    "personaje": "Doctor Salazar",
+    "texto": "Encontraron a Llamitas y se lo llevaron de vuelta a Las Palmas, quién me encenderá la barbacoa este año."
+  },
+  {
+    "id": "marta_santos_puerta4",
+    "personaje": "Marta Santos",
+    "texto": "Quién me ha quitado mi táper de la nevera, espero que el ladrón lo disfrute, eran escamas de cuélebre asturiano en líquido en formol, versas la reacción al comerlo, jajaja."
+  },
+  {
+    "id": "jose_castellanos_puerta4",
+    "personaje": "José Castellanos",
+    "texto": "El próximo paquete que alguien pida que se lo traigan a la oficina lo vendo en Wallapop."
+  },
+  {
+    "id": "profesor_leiva_puerta5",
+    "personaje": "Profesor Leiva",
+    "texto": "No me puedo creer que ya estés en tu última misión como un novato, tengo que sacar el champán."
+  },
+  {
+    "id": "profesor_vega_puerta5",
+    "personaje": "Profesor Vega",
+    "texto": "Has avanzado mucho aquí, te daría la enhorabuena, pero tengo una reputación que mantener."
+  },
+  {
+    "id": "doctora_garcia_puerta5",
+    "personaje": "Doctora García",
+    "texto": "Enhorabuena por todos tus logros aquí, si quieres amañar otra apuesta en tu último desafío yo estoy aquí."
+  },
+  {
+    "id": "marta_santos_puerta5",
+    "personaje": "Marta Santos",
+    "texto": "Un gusto ver que sigues con nosotros hasta el final, y teniendo en cuenta lo que pasó con la sopa de cuélebre pronto habrá otro recluta."
+  },
+  {
+    "id": "jose_castellanos_puerta5",
+    "personaje": "José Castellanos",
+    "texto": "Que pensabas que yo nunca te iba a dar ninguna toma de decisiones, esto es un videojuego, al fin y al cabo, hijo.",
+    "opciones": [
+      {
+        "texto": "Cómo que esto es un videojuego",
+        "destino": "jose_castellanos_puerta5_videojuego"
+      },
+      {
+        "texto": "Siiii, claroooo...",
+        "destino": "jose_castellanos_puerta5_matrix"
+      }
+    ]
+  },
+  {
+    "id": "jose_castellanos_puerta5_videojuego",
+    "personaje": "José Castellanos",
+    "texto": "Somos un puñado de dibujos en un programa de Java, entérate esto es una simulación."
+  },
+  {
+    "id": "jose_castellanos_puerta5_matrix",
+    "personaje": "José Castellanos",
+    "texto": "Si no me crees me da igual, soy un antisistema que ha salido de la matrix que te intentan hacer creer."
+  },
+  {
+    "id": "default_inicio",
+    "personaje": "Sistema",
+    "texto": "Este NPC no tiene diálogo configurado aún. Vuelve más tarde."
+  },
+  {
+    "id": "error",
+    "personaje": "Sistema",
+    "texto": "Error: Diálogo no encontrado. Por favor, reporta este problema."
+  }
+]
