@@ -1,0 +1,146 @@
+{
+"usuario": {
+	"partidasJugadas": 1,
+	"fechaUltimaPartida": "2026-01-20T18:32:35.353988900",
+	"configuracion": {
+		"volumen": "0.7",
+		"pantallaCompleta": "false"
+	}
+},
+"niveles": {
+	"nivel_5": {
+		"nivelId": "nivel_5",
+		"nombre": "Nivel 5: El Castillo",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_6": {
+		"nivelId": "nivel_6",
+		"nombre": "Nivel 6",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_10": {
+		"nivelId": "nivel_10",
+		"nombre": "Nivel 10",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_7": {
+		"nivelId": "nivel_7",
+		"nombre": "Nivel 7",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_8": {
+		"nivelId": "nivel_8",
+		"nombre": "Nivel 8",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_9": {
+		"nivelId": "nivel_9",
+		"nombre": "Nivel 9",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	},
+	"nivel_1": {
+		"nivelId": "nivel_1",
+		"nombre": "Nivel 1: La Villa",
+		"estado": "COMPLETADO",
+		"completado": true,
+		"mejorTiempo": 70.81927,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": "2026-01-19T20:20:34.345208800"
+	},
+	"nivel_2": {
+		"nivelId": "nivel_2",
+		"nombre": "Nivel 2: Las Columnas",
+		"estado": "COMPLETADO",
+		"completado": true,
+		"mejorTiempo": 151.27393,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": "2026-01-19T21:08:18.477754200"
+	},
+	"nivel_3": {
+		"nivelId": "nivel_3",
+		"nombre": "Nivel 3: Las Cavernas",
+		"estado": "COMPLETADO",
+		"completado": true,
+		"mejorTiempo": 320.46848,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": "2026-01-19T23:32:03.186898500"
+	},
+	"nivel_4": {
+		"nivelId": "nivel_4",
+		"nombre": "Nivel 4: La Luna",
+		"estado": "BLOQUEADO",
+		"completado": false,
+		"mejorTiempo": 0,
+		"muertes": 0,
+		"tieneRecompensa": false,
+		"fechaCompletado": ""
+	}
+},
+"videosVistos": {
+	"intro": {
+		"videoId": "intro",
+		"ruta": "videos/intro.mp4",
+		"descripcion": "Introducción al juego",
+		"visto": false,
+		"vecesVisto": 0,
+		"ultimaVez": ""
+	},
+	"final_bueno": {
+		"videoId": "final_bueno",
+		"ruta": "videos/final_bueno.mp4",
+		"descripcion": "Final bueno",
+		"visto": false,
+		"vecesVisto": 0,
+		"ultimaVez": ""
+	},
+	"final_malo": {
+		"videoId": "final_malo",
+		"ruta": "videos/final_malo.mp4",
+		"descripcion": "Final malo",
+		"visto": false,
+		"vecesVisto": 0,
+		"ultimaVez": ""
+	}
+},
+"estadisticas": {
+	"npcsHablados": 5,
+	"finalesDesbloqueados": {
+		"nivel_1": 1,
+		"nivel_2": 1,
+		"nivel_3": 1
+	}
+}
+}

@@ -1,0 +1,588 @@
+=== CRASH REPORT ===
+Fecha: Sat Dec 20 00:12:34 CET 2025
+Error: java.lang.IllegalStateException: Table must have a skin set to use this method.
+Mensaje: Table must have a skin set to use this method.
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.ui.Table.add(Table.java:272)
+    at io.github.javiergames.pieldelobo.PauseScreen.crearInterfazPausa(PauseScreen.java:78)
+    at io.github.javiergames.pieldelobo.PauseScreen.show(PauseScreen.java:49)
+    at com.badlogic.gdx.Game.setScreen(Game.java:63)
+    at io.github.javiergames.pieldelobo.LobbyScreen.mostrarPausa(LobbyScreen.java:297)
+    at io.github.javiergames.pieldelobo.LobbyScreen.render(LobbyScreen.java:222)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Dec 20 00:16:08 CET 2025
+Error: java.lang.IllegalStateException: Table must have a skin set to use this method.
+Mensaje: Table must have a skin set to use this method.
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.ui.Table.add(Table.java:272)
+    at io.github.javiergames.pieldelobo.PauseScreen.crearInterfazPausa(PauseScreen.java:78)
+    at io.github.javiergames.pieldelobo.PauseScreen.show(PauseScreen.java:49)
+    at com.badlogic.gdx.Game.setScreen(Game.java:63)
+    at io.github.javiergames.pieldelobo.LobbyScreen.mostrarPausa(LobbyScreen.java:297)
+    at io.github.javiergames.pieldelobo.LobbyScreen.render(LobbyScreen.java:222)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Mon Dec 22 01:34:02 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Mon Dec 22 01:36:19 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Mon Dec 22 01:37:59 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Dec 24 13:45:13 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Dec 24 19:05:20 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Thu Dec 25 01:12:18 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Thu Dec 25 21:06:09 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Fri Dec 26 01:30:03 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Dec 27 19:11:32 CET 2025
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 03 14:02:14 CET 2026
+Error: java.lang.NullPointerException: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Mensaje: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.actualizarAnimacion(Enemigos.java:105)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.act(Enemigos.java:88)
+    at com.badlogic.gdx.scenes.scene2d.Group.act(Group.java:50)
+    at com.badlogic.gdx.scenes.scene2d.Stage.act(Stage.java:211)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:314)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 03 14:03:33 CET 2026
+Error: java.lang.NullPointerException: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Mensaje: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.actualizarAnimacion(Enemigos.java:105)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.act(Enemigos.java:88)
+    at com.badlogic.gdx.scenes.scene2d.Group.act(Group.java:50)
+    at com.badlogic.gdx.scenes.scene2d.Stage.act(Stage.java:211)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:314)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 03 14:10:12 CET 2026
+Error: java.lang.NullPointerException: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Mensaje: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.actualizarAnimacion(Enemigos.java:105)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.act(Enemigos.java:88)
+    at com.badlogic.gdx.scenes.scene2d.Group.act(Group.java:50)
+    at com.badlogic.gdx.scenes.scene2d.Stage.act(Stage.java:211)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:314)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 03 19:31:29 CET 2026
+Error: java.lang.NullPointerException: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Mensaje: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.actualizarAnimacion(Enemigos.java:105)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.act(Enemigos.java:88)
+    at com.badlogic.gdx.scenes.scene2d.Group.act(Group.java:50)
+    at com.badlogic.gdx.scenes.scene2d.Stage.act(Stage.java:211)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:314)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 03 19:36:36 CET 2026
+Error: java.lang.NullPointerException: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Mensaje: Cannot invoke "com.badlogic.gdx.graphics.g2d.Animation.getKeyFrame(float, boolean)" because "this.animacionCaminar" is null
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.actualizarAnimacion(Enemigos.java:105)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.act(Enemigos.java:88)
+    at com.badlogic.gdx.scenes.scene2d.Group.act(Group.java:50)
+    at com.badlogic.gdx.scenes.scene2d.Stage.act(Stage.java:211)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:314)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sun Jan 04 16:04:32 CET 2026
+Error: java.lang.ClassCastException: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Mensaje: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.morir(Enemigos.java:432)
+    at io.github.javiergames.pieldelobo.Personajes.Esqueleto.morir(Esqueleto.java:209)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.recibirDano(Enemigos.java:403)
+    at io.github.javiergames.pieldelobo.MainScreen.verificarCombate(MainScreen.java:411)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:334)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Mon Jan 05 13:39:30 CET 2026
+Error: java.lang.ClassCastException: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Mensaje: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.morir(Enemigos.java:432)
+    at io.github.javiergames.pieldelobo.Personajes.Esqueleto.morir(Esqueleto.java:209)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.recibirDano(Enemigos.java:403)
+    at io.github.javiergames.pieldelobo.MainScreen.verificarCombate(MainScreen.java:411)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:334)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Mon Jan 05 14:24:17 CET 2026
+Error: java.lang.ClassCastException: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Mensaje: class [Ljava.lang.Object; cannot be cast to class [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; ([Ljava.lang.Object; is in module java.base of loader 'bootstrap'; [Lcom.badlogic.gdx.graphics.g2d.TextureRegion; is in unnamed module of loader 'app')
+Stack trace:
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.morir(Enemigos.java:433)
+    at io.github.javiergames.pieldelobo.Personajes.Esqueleto.morir(Esqueleto.java:210)
+    at io.github.javiergames.pieldelobo.Personajes.Enemigos.recibirDano(Enemigos.java:403)
+    at io.github.javiergames.pieldelobo.MainScreen.verificarCombate(MainScreen.java:411)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:334)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Jan 07 18:12:22 CET 2026
+Error: java.lang.ClassCastException: class java.util.HashMap cannot be cast to class io.github.javiergames.pieldelobo.DataBase.DatabaseManager$LevelState (java.util.HashMap is in module java.base of loader 'bootstrap'; io.github.javiergames.pieldelobo.DataBase.DatabaseManager$LevelState is in unnamed module of loader 'app')
+Mensaje: class java.util.HashMap cannot be cast to class io.github.javiergames.pieldelobo.DataBase.DatabaseManager$LevelState (java.util.HashMap is in module java.base of loader 'bootstrap'; io.github.javiergames.pieldelobo.DataBase.DatabaseManager$LevelState is in unnamed module of loader 'app')
+Stack trace:
+    at io.github.javiergames.pieldelobo.DataBase.DatabaseManager.isNivelDesbloqueado(DatabaseManager.java:345)
+    at io.github.javiergames.pieldelobo.GestorJuego.GameState.isNivelDesbloqueado(GameState.java:114)
+    at io.github.javiergames.pieldelobo.LobbyScreen.verificarNivelDesbloqueado(LobbyScreen.java:1548)
+    at io.github.javiergames.pieldelobo.LobbyScreen.terminarDialogoNPC(LobbyScreen.java:728)
+    at io.github.javiergames.pieldelobo.LobbyScreen.manejarControlesDialogoNPC(LobbyScreen.java:696)
+    at io.github.javiergames.pieldelobo.LobbyScreen.renderModoDialogo(LobbyScreen.java:539)
+    at io.github.javiergames.pieldelobo.LobbyScreen.render(LobbyScreen.java:502)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:66)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Sat Jan 10 18:53:31 CET 2026
+Error: java.lang.RuntimeException: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Mensaje: Actor: Group
+|  Table
+|  |  Table
+|  |  |  Label: PAUSA
+|  |  |  Label: Reanudar
+|  |  |  Label: Guardar Partida
+|  |  |  Label: Cargar
+Stack trace:
+    at com.badlogic.gdx.scenes.scene2d.Actor.notify(Actor.java:192)
+    at com.badlogic.gdx.scenes.scene2d.Actor.fire(Actor.java:152)
+    at com.badlogic.gdx.scenes.scene2d.Stage.keyDown(Stage.java:422)
+    at com.badlogic.gdx.InputEventQueue.drain(InputEventQueue.java:58)
+    at com.badlogic.gdx.backends.lwjgl3.DefaultLwjgl3Input.update(DefaultLwjgl3Input.java:190)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:414)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Jan 14 14:09:39 CET 2026
+Error: com.badlogic.gdx.utils.GdxRuntimeException: Couldn't load file: white_pixel.png
+Mensaje: Couldn't load file: white_pixel.png
+Stack trace:
+    at com.badlogic.gdx.graphics.Pixmap.<init>(Pixmap.java:190)
+    at com.badlogic.gdx.graphics.TextureData$Factory.loadFromFile(TextureData.java:101)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:126)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:118)
+    at io.github.javiergames.pieldelobo.MainScreen.dibujarMensajeIndicador(MainScreen.java:673)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:472)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:87)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Jan 14 14:12:29 CET 2026
+Error: com.badlogic.gdx.utils.GdxRuntimeException: Couldn't load file: white_pixel.png
+Mensaje: Couldn't load file: white_pixel.png
+Stack trace:
+    at com.badlogic.gdx.graphics.Pixmap.<init>(Pixmap.java:190)
+    at com.badlogic.gdx.graphics.TextureData$Factory.loadFromFile(TextureData.java:101)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:126)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:118)
+    at io.github.javiergames.pieldelobo.MainScreen.dibujarMensajeIndicador(MainScreen.java:673)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:472)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:87)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Wed Jan 14 14:35:50 CET 2026
+Error: com.badlogic.gdx.utils.GdxRuntimeException: Couldn't load file: white_pixel.png
+Mensaje: Couldn't load file: white_pixel.png
+Stack trace:
+    at com.badlogic.gdx.graphics.Pixmap.<init>(Pixmap.java:190)
+    at com.badlogic.gdx.graphics.TextureData$Factory.loadFromFile(TextureData.java:101)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:126)
+    at com.badlogic.gdx.graphics.Texture.<init>(Texture.java:118)
+    at io.github.javiergames.pieldelobo.MainScreen.dibujarMensajeIndicador(MainScreen.java:673)
+    at io.github.javiergames.pieldelobo.MainScreen.render(MainScreen.java:472)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:87)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
+=== CRASH REPORT ===
+Fecha: Tue Jan 20 11:50:12 CET 2026
+Error: com.badlogic.gdx.utils.GdxRuntimeException: No buffer allocated!
+Mensaje: No buffer allocated!
+Stack trace:
+    at com.badlogic.gdx.graphics.glutils.IndexBufferObject.bind(IndexBufferObject.java:187)
+    at com.badlogic.gdx.graphics.Mesh.bind(Mesh.java:521)
+    at com.badlogic.gdx.graphics.Mesh.bind(Mesh.java:509)
+    at com.badlogic.gdx.graphics.Mesh.render(Mesh.java:624)
+    at com.badlogic.gdx.graphics.Mesh.render(Mesh.java:593)
+    at com.badlogic.gdx.graphics.g2d.SpriteBatch.flush(SpriteBatch.java:993)
+    at com.badlogic.gdx.graphics.g2d.SpriteBatch.switchTexture(SpriteBatch.java:1090)
+    at com.badlogic.gdx.graphics.g2d.SpriteBatch.draw(SpriteBatch.java:578)
+    at com.badlogic.gdx.graphics.g2d.BitmapFontCache.draw(BitmapFontCache.java:249)
+    at com.badlogic.gdx.graphics.g2d.BitmapFont.draw(BitmapFont.java:196)
+    at io.github.javiergames.pieldelobo.LobbyScreen.dibujarNotificacion(LobbyScreen.java:1495)
+    at io.github.javiergames.pieldelobo.LobbyScreen.renderModoDialogo(LobbyScreen.java:632)
+    at io.github.javiergames.pieldelobo.LobbyScreen.render(LobbyScreen.java:585)
+    at com.badlogic.gdx.Game.render(Game.java:48)
+    at io.github.javiergames.pieldelobo.GestorJuego.Main.render(Main.java:87)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Window.update(Lwjgl3Window.java:435)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.loop(Lwjgl3Application.java:181)
+    at com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application.<init>(Lwjgl3Application.java:153)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.createApplication(Lwjgl3Launcher.java:15)
+    at io.github.javiergames.pieldelobo.lwjgl3.Lwjgl3Launcher.main(Lwjgl3Launcher.java:11)
+
+
