@@ -1,0 +1,198 @@
+Personajes_Laboratorio.png
+size: 2048, 177
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+Ciber_laboratorio000
+  bounds: 0, 0, 64, 59
+Ciber_laboratorio001
+  bounds: 64, 0, 64, 59
+Ciber_laboratorio002
+  bounds: 128, 0, 64, 59
+Ciber_laboratorio003
+  bounds: 192, 0, 64, 59
+Ciber_laboratorio004
+  bounds: 256, 0, 64, 59
+Ciber_laboratorio005
+  bounds: 320, 0, 64, 59
+Ciber_laboratorio006
+  bounds: 384, 0, 64, 59
+Ciber_laboratorio007
+  bounds: 448, 0, 64, 59
+Ciber_laboratorio008
+  bounds: 512, 0, 64, 59
+Ciber_laboratorio009
+  bounds: 576, 0, 64, 59
+Ciber_laboratorio010
+  bounds: 640, 0, 64, 59
+Ciber_laboratorio011
+  bounds: 704, 0, 64, 59
+Doctor_laboratorio000
+  bounds: 768, 0, 64, 59
+Doctor_laboratorio001
+  bounds: 832, 0, 64, 59
+Doctor_laboratorio002
+  bounds: 896, 0, 64, 59
+Doctor_laboratorio003
+  bounds: 960, 0, 64, 59
+Doctor_laboratorio004
+  bounds: 1024, 0, 64, 59
+Doctor_laboratorio005
+  bounds: 1088, 0, 64, 59
+Doctor_laboratorio006
+  bounds: 1152, 0, 64, 59
+Doctor_laboratorio007
+  bounds: 1216, 0, 64, 59
+Doctor_laboratorio008
+  bounds: 1280, 0, 64, 59
+Doctor_laboratorio009
+  bounds: 1344, 0, 64, 59
+Doctor_laboratorio010
+  bounds: 1408, 0, 64, 59
+Doctor_laboratorio011
+  bounds: 1472, 0, 64, 59
+Doctora_laboratorio000
+  bounds: 1536, 0, 64, 59
+Doctora_laboratorio001
+  bounds: 1600, 0, 64, 59
+Doctora_laboratorio002
+  bounds: 1664, 0, 64, 59
+Doctora_laboratorio003
+  bounds: 1728, 0, 64, 59
+Doctora_laboratorio004
+  bounds: 1792, 0, 64, 59
+Doctora_laboratorio005
+  bounds: 1856, 0, 64, 59
+Doctora_laboratorio006
+  bounds: 1920, 0, 64, 59
+Doctora_laboratorio007
+  bounds: 1984, 0, 64, 59
+Doctora_laboratorio008
+  bounds: 0, 59, 64, 59
+Doctora_laboratorio009
+  bounds: 64, 59, 64, 59
+Doctora_laboratorio010
+  bounds: 128, 59, 64, 59
+Doctora_laboratorio011
+  bounds: 192, 59, 64, 59
+Medico2_laboratorio000
+  bounds: 256, 59, 64, 59
+Medico2_laboratorio001
+  bounds: 320, 59, 64, 59
+Medico2_laboratorio002
+  bounds: 384, 59, 64, 59
+Medico2_laboratorio003
+  bounds: 448, 59, 64, 59
+Medico2_laboratorio004
+  bounds: 512, 59, 64, 59
+Medico2_laboratorio005
+  bounds: 576, 59, 64, 59
+Medico2_laboratorio006
+  bounds: 640, 59, 64, 59
+Medico2_laboratorio007
+  bounds: 704, 59, 64, 59
+Medico2_laboratorio008
+  bounds: 768, 59, 64, 59
+Medico2_laboratorio009
+  bounds: 832, 59, 64, 59
+Medico2_laboratorio010
+  bounds: 896, 59, 64, 59
+Medico2_laboratorio011
+  bounds: 960, 59, 64, 59
+Medico_laboratorio000
+  bounds: 1024, 59, 64, 59
+Medico_laboratorio001
+  bounds: 1088, 59, 64, 59
+Medico_laboratorio002
+  bounds: 1152, 59, 64, 59
+Medico_laboratorio003
+  bounds: 1216, 59, 64, 59
+Medico_laboratorio004
+  bounds: 1280, 59, 64, 59
+Medico_laboratorio005
+  bounds: 1344, 59, 64, 59
+Medico_laboratorio006
+  bounds: 1408, 59, 64, 59
+Medico_laboratorio007
+  bounds: 1472, 59, 64, 59
+Medico_laboratorio008
+  bounds: 1536, 59, 64, 59
+Medico_laboratorio009
+  bounds: 1600, 59, 64, 59
+Medico_laboratorio010
+  bounds: 1664, 59, 64, 59
+Medico_laboratorio011
+  bounds: 1728, 59, 64, 59
+Profesor_laboratorio000
+  bounds: 1792, 59, 64, 59
+Profesor_laboratorio001
+  bounds: 1856, 59, 64, 59
+Profesor_laboratorio002
+  bounds: 1920, 59, 64, 59
+Profesor_laboratorio003
+  bounds: 1984, 59, 64, 59
+Profesor_laboratorio004
+  bounds: 0, 118, 64, 59
+Profesor_laboratorio005
+  bounds: 64, 118, 64, 59
+Profesor_laboratorio006
+  bounds: 128, 118, 64, 59
+Profesor_laboratorio007
+  bounds: 192, 118, 64, 59
+Profesor_laboratorio008
+  bounds: 256, 118, 64, 59
+Profesor_laboratorio009
+  bounds: 320, 118, 64, 59
+Profesor_laboratorio010
+  bounds: 384, 118, 64, 59
+Profesor_laboratorio011
+  bounds: 448, 118, 64, 59
+Prota_laboratorio000
+  bounds: 512, 118, 64, 59
+Prota_laboratorio001
+  bounds: 576, 118, 64, 59
+Prota_laboratorio002
+  bounds: 640, 118, 64, 59
+Prota_laboratorio003
+  bounds: 704, 118, 64, 59
+Prota_laboratorio004
+  bounds: 768, 118, 64, 59
+Prota_laboratorio005
+  bounds: 832, 118, 64, 59
+Prota_laboratorio006
+  bounds: 896, 118, 64, 59
+Prota_laboratorio007
+  bounds: 960, 118, 64, 59
+Prota_laboratorio008
+  bounds: 1024, 118, 64, 59
+Prota_laboratorio009
+  bounds: 1088, 118, 64, 59
+Prota_laboratorio010
+  bounds: 1152, 118, 64, 59
+Prota_laboratorio011
+  bounds: 1216, 118, 64, 59
+Senor_laboratorio000
+  bounds: 1280, 118, 64, 59
+Senor_laboratorio001
+  bounds: 1344, 118, 64, 59
+Senor_laboratorio002
+  bounds: 1408, 118, 64, 59
+Senor_laboratorio003
+  bounds: 1472, 118, 64, 59
+Senor_laboratorio004
+  bounds: 1536, 118, 64, 59
+Senor_laboratorio005
+  bounds: 1600, 118, 64, 59
+Senor_laboratorio006
+  bounds: 1664, 118, 64, 59
+Senor_laboratorio007
+  bounds: 1728, 118, 64, 59
+Senor_laboratorio008
+  bounds: 1792, 118, 64, 59
+Senor_laboratorio009
+  bounds: 1856, 118, 64, 59
+Senor_laboratorio010
+  bounds: 1920, 118, 64, 59
+Senor_laboratorio011
+  bounds: 1984, 118, 64, 59

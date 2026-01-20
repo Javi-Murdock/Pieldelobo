@@ -1,0 +1,72 @@
+Bruja_Fuego.png
+size: 450, 1650
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mago_ataque000
+  bounds: 0, 0, 150, 150
+mago_ataque001
+  bounds: 150, 0, 150, 150
+mago_ataque002
+  bounds: 300, 0, 150, 150
+mago_ataque003
+  bounds: 0, 150, 150, 150
+mago_ataque004
+  bounds: 150, 150, 150, 150
+mago_ataque005
+  bounds: 300, 150, 150, 150
+mago_ataque006
+  bounds: 0, 300, 150, 150
+mago_ataque007
+  bounds: 150, 300, 150, 150
+mago_golpe000
+  bounds: 300, 300, 150, 150
+mago_golpe001
+  bounds: 0, 450, 150, 150
+mago_golpe002
+  bounds: 150, 450, 150, 150
+mago_golpe003
+  bounds: 300, 450, 150, 150
+mago_move000
+  bounds: 0, 600, 150, 150
+mago_move001
+  bounds: 150, 600, 150, 150
+mago_move002
+  bounds: 300, 600, 150, 150
+mago_move003
+  bounds: 0, 750, 150, 150
+mago_move004
+  bounds: 150, 750, 150, 150
+mago_move005
+  bounds: 300, 750, 150, 150
+mago_move006
+  bounds: 0, 900, 150, 150
+mago_move007
+  bounds: 150, 900, 150, 150
+mago_muerte000
+  bounds: 300, 900, 150, 150
+mago_muerte001
+  bounds: 0, 1050, 150, 150
+mago_muerte002
+  bounds: 150, 1050, 150, 150
+mago_muerte003
+  bounds: 300, 1050, 150, 150
+mago_muerte004
+  bounds: 0, 1200, 150, 150
+mago_quieto000
+  bounds: 150, 1200, 150, 150
+mago_quieto001
+  bounds: 300, 1200, 150, 150
+mago_quieto002
+  bounds: 0, 1350, 150, 150
+mago_quieto003
+  bounds: 150, 1350, 150, 150
+mago_quieto004
+  bounds: 300, 1350, 150, 150
+mago_quieto005
+  bounds: 0, 1500, 150, 150
+mago_quieto006
+  bounds: 150, 1500, 150, 150
+mago_quieto007
+  bounds: 300, 1500, 150, 150

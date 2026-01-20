@@ -1,0 +1,150 @@
+Necromancer.png
+size: 1920, 768
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+necromancer000
+  bounds: 0, 0, 160, 128
+necromancer001
+  bounds: 160, 0, 160, 128
+necromancer002
+  bounds: 320, 0, 160, 128
+necromancer003
+  bounds: 480, 0, 160, 128
+necromancer004
+  bounds: 640, 0, 160, 128
+necromancer005
+  bounds: 800, 0, 160, 128
+necromancer006
+  bounds: 960, 0, 160, 128
+necromancer007
+  bounds: 1120, 0, 160, 128
+necromancer017
+  bounds: 1280, 0, 160, 128
+necromancer018
+  bounds: 1440, 0, 160, 128
+necromancer020
+  bounds: 1600, 0, 160, 128
+necromancer021
+  bounds: 1760, 0, 160, 128
+necromancer022
+  bounds: 0, 128, 160, 128
+necromancer023
+  bounds: 160, 128, 160, 128
+necromancer024
+  bounds: 320, 128, 160, 128
+necromancer034
+  bounds: 480, 128, 160, 128
+necromancer035
+  bounds: 640, 128, 160, 128
+necromancer036
+  bounds: 800, 128, 160, 128
+necromancer037
+  bounds: 960, 128, 160, 128
+necromancer038
+  bounds: 1120, 128, 160, 128
+necromancer039
+  bounds: 1280, 128, 160, 128
+necromancer040
+  bounds: 1440, 128, 160, 128
+necromancer041
+  bounds: 1600, 128, 160, 128
+necromancer042
+  bounds: 1760, 128, 160, 128
+necromancer043
+  bounds: 0, 256, 160, 128
+necromancer044
+  bounds: 160, 256, 160, 128
+necromancer045
+  bounds: 320, 256, 160, 128
+necromancer046
+  bounds: 480, 256, 160, 128
+necromancer051
+  bounds: 640, 256, 160, 128
+necromancer052
+  bounds: 800, 256, 160, 128
+necromancer053
+  bounds: 960, 256, 160, 128
+necromancer054
+  bounds: 1120, 256, 160, 128
+necromancer055
+  bounds: 1280, 256, 160, 128
+necromancer056
+  bounds: 1440, 256, 160, 128
+necromancer057
+  bounds: 1600, 256, 160, 128
+necromancer058
+  bounds: 1760, 256, 160, 128
+necromancer059
+  bounds: 0, 384, 160, 128
+necromancer060
+  bounds: 160, 384, 160, 128
+necromancer061
+  bounds: 320, 384, 160, 128
+necromancer062
+  bounds: 480, 384, 160, 128
+necromancer063
+  bounds: 640, 384, 160, 128
+necromancer068
+  bounds: 800, 384, 160, 128
+necromancer069
+  bounds: 960, 384, 160, 128
+necromancer070
+  bounds: 1120, 384, 160, 128
+necromancer071
+  bounds: 1280, 384, 160, 128
+necromancer072
+  bounds: 1440, 384, 160, 128
+necromancer073
+  bounds: 1600, 384, 160, 128
+necromancer074
+  bounds: 1760, 384, 160, 128
+necromancer075
+  bounds: 0, 512, 160, 128
+necromancer076
+  bounds: 160, 512, 160, 128
+necromancer077
+  bounds: 320, 512, 160, 128
+necromancer078
+  bounds: 480, 512, 160, 128
+necromancer079
+  bounds: 640, 512, 160, 128
+necromancer080
+  bounds: 800, 512, 160, 128
+necromancer081
+  bounds: 960, 512, 160, 128
+necromancer082
+  bounds: 1120, 512, 160, 128
+necromancer083
+  bounds: 1280, 512, 160, 128
+necromancer084
+  bounds: 1440, 512, 160, 128
+necromancer085
+  bounds: 1600, 512, 160, 128
+necromancer086
+  bounds: 1760, 512, 160, 128
+necromancer087
+  bounds: 0, 640, 160, 128
+necromancer088
+  bounds: 160, 640, 160, 128
+necromancer089
+  bounds: 320, 640, 160, 128
+necromancer102
+  bounds: 480, 640, 160, 128
+necromancer103
+  bounds: 640, 640, 160, 128
+necromancer104
+  bounds: 800, 640, 160, 128
+necromancer105
+  bounds: 960, 640, 160, 128
+necromancer106
+  bounds: 1120, 640, 160, 128
+necromancer107
+  bounds: 1280, 640, 160, 128
+necromancer108
+  bounds: 1440, 640, 160, 128
+necromancer109
+  bounds: 1600, 640, 160, 128
+necromancer110
+  bounds: 1760, 640, 160, 128

@@ -1,0 +1,102 @@
+Bandido.png
+size: 1536, 48
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+HeavyBandit_Attack
+  bounds: 0, 0, 48, 48
+  index: 0
+HeavyBandit_Attack
+  bounds: 48, 0, 48, 48
+  index: 1
+HeavyBandit_Attack
+  bounds: 96, 0, 48, 48
+  index: 2
+HeavyBandit_Attack
+  bounds: 144, 0, 48, 48
+  index: 3
+HeavyBandit_Attack
+  bounds: 192, 0, 48, 48
+  index: 4
+HeavyBandit_Attack
+  bounds: 240, 0, 48, 48
+  index: 5
+HeavyBandit_Attack
+  bounds: 288, 0, 48, 48
+  index: 6
+HeavyBandit_Attack
+  bounds: 336, 0, 48, 48
+  index: 7
+HeavyBandit_CombatIdle
+  bounds: 384, 0, 48, 48
+  index: 0
+HeavyBandit_CombatIdle
+  bounds: 432, 0, 48, 48
+  index: 1
+HeavyBandit_CombatIdle
+  bounds: 480, 0, 48, 48
+  index: 2
+HeavyBandit_CombatIdle
+  bounds: 528, 0, 48, 48
+  index: 3
+HeavyBandit_Death
+  bounds: 576, 0, 48, 48
+  index: 0
+HeavyBandit_Hurt
+  bounds: 624, 0, 48, 48
+  index: 0
+HeavyBandit_Hurt
+  bounds: 672, 0, 48, 48
+  index: 1
+HeavyBandit_Jump
+  bounds: 720, 0, 48, 48
+  index: 0
+HeavyBandit_Recover
+  bounds: 768, 0, 48, 48
+  index: 0
+HeavyBandit_Recover
+  bounds: 816, 0, 48, 48
+  index: 1
+HeavyBandit_Recover
+  bounds: 864, 0, 48, 48
+  index: 2
+HeavyBandit_Recover
+  bounds: 912, 0, 48, 48
+  index: 3
+HeavyBandit_Recover
+  bounds: 960, 0, 48, 48
+  index: 4
+HeavyBandit_Recover
+  bounds: 1008, 0, 48, 48
+  index: 5
+HeavyBandit_Recover
+  bounds: 1056, 0, 48, 48
+  index: 6
+HeavyBandit_Recover
+  bounds: 1104, 0, 48, 48
+  index: 7
+HeavyBandit_Run
+  bounds: 1152, 0, 48, 48
+  index: 0
+HeavyBandit_Run
+  bounds: 1200, 0, 48, 48
+  index: 1
+HeavyBandit_Run
+  bounds: 1248, 0, 48, 48
+  index: 2
+HeavyBandit_Run
+  bounds: 1296, 0, 48, 48
+  index: 3
+HeavyBandit_Run
+  bounds: 1344, 0, 48, 48
+  index: 4
+HeavyBandit_Run
+  bounds: 1392, 0, 48, 48
+  index: 5
+HeavyBandit_Run
+  bounds: 1440, 0, 48, 48
+  index: 6
+HeavyBandit_Run
+  bounds: 1488, 0, 48, 48
+  index: 7

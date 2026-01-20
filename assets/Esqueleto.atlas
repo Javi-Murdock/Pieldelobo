@@ -1,0 +1,136 @@
+Esqueleto.png
+size: 242, 309
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+eaqueleto_quieto000
+  bounds: 0, 0, 24, 32
+eaqueleto_quieto001
+  bounds: 24, 0, 24, 32
+eaqueleto_quieto002
+  bounds: 48, 0, 24, 32
+eaqueleto_quieto003
+  bounds: 72, 0, 24, 32
+eaqueleto_quieto004
+  bounds: 96, 0, 24, 32
+eaqueleto_quieto005
+  bounds: 120, 0, 24, 32
+eaqueleto_quieto006
+  bounds: 144, 0, 24, 32
+eaqueleto_quieto007
+  bounds: 168, 0, 24, 32
+eaqueleto_quieto008
+  bounds: 192, 0, 24, 32
+eaqueleto_quieto009
+  bounds: 216, 0, 24, 32
+eaqueleto_quieto010
+  bounds: 0, 32, 24, 32
+esqueleto_andando000
+  bounds: 66, 128, 22, 33
+esqueleto_andando001
+  bounds: 88, 128, 22, 33
+esqueleto_andando002
+  bounds: 110, 128, 22, 33
+esqueleto_andando003
+  bounds: 132, 128, 22, 33
+esqueleto_andando004
+  bounds: 154, 128, 22, 33
+esqueleto_andando005
+  bounds: 176, 128, 22, 33
+esqueleto_andando006
+  bounds: 198, 128, 22, 33
+esqueleto_andando007
+  bounds: 220, 128, 22, 33
+esqueleto_andando008
+  bounds: 0, 161, 22, 33
+esqueleto_andando009
+  bounds: 22, 161, 22, 33
+esqueleto_andando010
+  bounds: 44, 161, 22, 33
+esqueleto_andando011
+  bounds: 66, 161, 22, 33
+esqueleto_andando012
+  bounds: 88, 161, 22, 33
+esqueleto_ataca000
+  bounds: 110, 161, 43, 37
+esqueleto_ataca001
+  bounds: 153, 161, 43, 37
+esqueleto_ataca002
+  bounds: 196, 161, 43, 37
+esqueleto_ataca003
+  bounds: 0, 198, 43, 37
+esqueleto_ataca004
+  bounds: 43, 198, 43, 37
+esqueleto_ataca005
+  bounds: 86, 198, 43, 37
+esqueleto_ataca006
+  bounds: 129, 198, 43, 37
+esqueleto_ataca007
+  bounds: 172, 198, 43, 37
+esqueleto_ataca008
+  bounds: 0, 235, 43, 37
+esqueleto_ataca009
+  bounds: 43, 235, 43, 37
+esqueleto_ataca010
+  bounds: 86, 235, 43, 37
+esqueleto_ataca011
+  bounds: 129, 235, 43, 37
+esqueleto_ataca012
+  bounds: 172, 235, 43, 37
+esqueleto_ataca013
+  bounds: 0, 272, 43, 37
+esqueleto_ataca014
+  bounds: 43, 272, 43, 37
+esqueleto_ataca015
+  bounds: 86, 272, 43, 37
+esqueleto_ataca016
+  bounds: 129, 272, 43, 37
+esqueleto_ataca017
+  bounds: 172, 272, 43, 37
+esqueleto_golpeado000
+  bounds: 24, 32, 30, 32
+esqueleto_golpeado001
+  bounds: 54, 32, 30, 32
+esqueleto_golpeado002
+  bounds: 84, 32, 30, 32
+esqueleto_golpeado003
+  bounds: 114, 32, 30, 32
+esqueleto_golpeado004
+  bounds: 144, 32, 30, 32
+esqueleto_golpeado005
+  bounds: 174, 32, 30, 32
+esqueleto_golpeado006
+  bounds: 204, 32, 30, 32
+esqueleto_golpeado007
+  bounds: 0, 64, 30, 32
+esqueleto_muerte000
+  bounds: 30, 64, 33, 32
+esqueleto_muerte001
+  bounds: 63, 64, 33, 32
+esqueleto_muerte002
+  bounds: 96, 64, 33, 32
+esqueleto_muerte003
+  bounds: 129, 64, 33, 32
+esqueleto_muerte004
+  bounds: 162, 64, 33, 32
+esqueleto_muerte005
+  bounds: 195, 64, 33, 32
+esqueleto_muerte006
+  bounds: 0, 96, 33, 32
+esqueleto_muerte007
+  bounds: 33, 96, 33, 32
+esqueleto_muerte008
+  bounds: 66, 96, 33, 32
+esqueleto_muerte009
+  bounds: 99, 96, 33, 32
+esqueleto_muerte010
+  bounds: 132, 96, 33, 32
+esqueleto_muerte011
+  bounds: 165, 96, 33, 32
+esqueleto_muerte012
+  bounds: 198, 96, 33, 32
+esqueleto_muerte013
+  bounds: 0, 128, 33, 32
+esqueleto_muerte014
+  bounds: 33, 128, 33, 32

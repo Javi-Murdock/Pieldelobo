@@ -1,0 +1,114 @@
+Barbaro.png
+size: 1728, 48
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+LightBandit_Attack
+  bounds: 0, 0, 48, 48
+  index: 0
+LightBandit_Attack
+  bounds: 48, 0, 48, 48
+  index: 1
+LightBandit_Attack
+  bounds: 96, 0, 48, 48
+  index: 2
+LightBandit_Attack
+  bounds: 144, 0, 48, 48
+  index: 3
+LightBandit_Attack
+  bounds: 192, 0, 48, 48
+  index: 4
+LightBandit_Attack
+  bounds: 240, 0, 48, 48
+  index: 5
+LightBandit_Attack
+  bounds: 288, 0, 48, 48
+  index: 6
+LightBandit_Attack
+  bounds: 336, 0, 48, 48
+  index: 7
+LightBandit_Combat Idle
+  bounds: 384, 0, 48, 48
+  index: 0
+LightBandit_Combat Idle
+  bounds: 432, 0, 48, 48
+  index: 1
+LightBandit_Combat Idle
+  bounds: 480, 0, 48, 48
+  index: 2
+LightBandit_Combat Idle
+  bounds: 528, 0, 48, 48
+  index: 3
+LightBandit_Death
+  bounds: 576, 0, 48, 48
+  index: 0
+LightBandit_Hurt
+  bounds: 624, 0, 48, 48
+  index: 0
+LightBandit_Hurt
+  bounds: 672, 0, 48, 48
+  index: 1
+LightBandit_Idle
+  bounds: 720, 0, 48, 48
+  index: 0
+LightBandit_Idle
+  bounds: 768, 0, 48, 48
+  index: 1
+LightBandit_Idle
+  bounds: 816, 0, 48, 48
+  index: 2
+LightBandit_Idle
+  bounds: 864, 0, 48, 48
+  index: 3
+LightBandit_Jump
+  bounds: 912, 0, 48, 48
+  index: 0
+LightBandit_Recover
+  bounds: 960, 0, 48, 48
+  index: 0
+LightBandit_Recover
+  bounds: 1008, 0, 48, 48
+  index: 1
+LightBandit_Recover
+  bounds: 1056, 0, 48, 48
+  index: 2
+LightBandit_Recover
+  bounds: 1104, 0, 48, 48
+  index: 3
+LightBandit_Recover
+  bounds: 1152, 0, 48, 48
+  index: 4
+LightBandit_Recover
+  bounds: 1200, 0, 48, 48
+  index: 5
+LightBandit_Recover
+  bounds: 1248, 0, 48, 48
+  index: 6
+LightBandit_Recover
+  bounds: 1296, 0, 48, 48
+  index: 7
+LightBandit_Run
+  bounds: 1344, 0, 48, 48
+  index: 0
+LightBandit_Run
+  bounds: 1392, 0, 48, 48
+  index: 1
+LightBandit_Run
+  bounds: 1440, 0, 48, 48
+  index: 2
+LightBandit_Run
+  bounds: 1488, 0, 48, 48
+  index: 3
+LightBandit_Run
+  bounds: 1536, 0, 48, 48
+  index: 4
+LightBandit_Run
+  bounds: 1584, 0, 48, 48
+  index: 5
+LightBandit_Run
+  bounds: 1632, 0, 48, 48
+  index: 6
+LightBandit_Run
+  bounds: 1680, 0, 48, 48
+  index: 7

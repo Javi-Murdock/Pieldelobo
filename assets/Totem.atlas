@@ -1,0 +1,32 @@
+Totem.png
+size: 1000, 1200
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+totem000
+  bounds: 0, 0, 200, 400
+totem001
+  bounds: 200, 0, 200, 400
+totem002
+  bounds: 400, 0, 200, 400
+totem003
+  bounds: 600, 0, 200, 400
+totem004
+  bounds: 800, 0, 200, 400
+totem005
+  bounds: 0, 400, 200, 400
+totem006
+  bounds: 200, 400, 200, 400
+totem007
+  bounds: 400, 400, 200, 400
+totem008
+  bounds: 600, 400, 200, 400
+totem009
+  bounds: 800, 400, 200, 400
+totem010
+  bounds: 0, 800, 200, 400
+totem011
+  bounds: 200, 800, 200, 400
+totem012
+  bounds: 400, 800, 200, 400

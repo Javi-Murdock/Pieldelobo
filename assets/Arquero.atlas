@@ -1,0 +1,54 @@
+Arquero.png
+size: 1536, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+arqueraAndar000
+  bounds: 0, 0, 64, 64
+arqueraAndar001
+  bounds: 64, 0, 64, 64
+arqueraAndar002
+  bounds: 128, 0, 64, 64
+arqueraAndar003
+  bounds: 192, 0, 64, 64
+arqueraAndar004
+  bounds: 256, 0, 64, 64
+arqueraAndar005
+  bounds: 320, 0, 64, 64
+arqueraAndar006
+  bounds: 384, 0, 64, 64
+arqueraAndar007
+  bounds: 448, 0, 64, 64
+arqueraAtaque000
+  bounds: 512, 0, 64, 64
+arqueraAtaque001
+  bounds: 576, 0, 64, 64
+arqueraAtaque002
+  bounds: 640, 0, 64, 64
+arqueraAtaque003
+  bounds: 704, 0, 64, 64
+arqueraAtaque004
+  bounds: 768, 0, 64, 64
+arqueraAtaque005
+  bounds: 832, 0, 64, 64
+arqueraAtaque006
+  bounds: 896, 0, 64, 64
+arqueraAtaque007
+  bounds: 960, 0, 64, 64
+arqueraMuerte000
+  bounds: 1024, 0, 64, 64
+arqueraMuerte001
+  bounds: 1088, 0, 64, 64
+arqueraMuerte002
+  bounds: 1152, 0, 64, 64
+arqueraMuerte003
+  bounds: 1216, 0, 64, 64
+arqueraMuerte004
+  bounds: 1280, 0, 64, 64
+arqueraMuerte005
+  bounds: 1344, 0, 64, 64
+arqueraMuerte006
+  bounds: 1408, 0, 64, 64
+arqueraMuerte007
+  bounds: 1472, 0, 64, 64

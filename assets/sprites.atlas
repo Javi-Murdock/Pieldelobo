@@ -1,0 +1,46 @@
+sprites.png
+size: 120, 1200
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+attack/attack0
+  bounds: 0, 0, 120, 80
+attack/attack1
+  bounds: 0, 80, 120, 80
+attack/attack2
+  bounds: 0, 160, 120, 80
+attack/attack3
+  bounds: 0, 240, 120, 80
+idle/quieto0
+  bounds: 0, 320, 40, 40
+idle/quieto1
+  bounds: 40, 320, 40, 40
+idle/quieto2
+  bounds: 80, 320, 40, 40
+jump/jump0
+  bounds: 0, 360, 120, 40
+jump/jump1
+  bounds: 0, 400, 120, 40
+run/run0
+  bounds: 0, 440, 40, 40
+run/run1
+  bounds: 40, 440, 40, 40
+run/run2
+  bounds: 80, 440, 40, 40
+run/run3
+  bounds: 0, 480, 40, 40
+run/run4
+  bounds: 40, 480, 40, 40
+run/run5
+  bounds: 80, 480, 40, 40
+run/run6
+  bounds: 0, 520, 40, 40
+run/run7
+  bounds: 40, 520, 40, 40
+run/run8
+  bounds: 80, 520, 40, 40
+run/run9
+  bounds: 0, 560, 40, 40
+sprites
+  bounds: 0, 600, 120, 600
