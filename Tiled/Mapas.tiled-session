@@ -1,0 +1,76 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "nivel_laboratorio.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "Laboratorio.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Suelos_Laboratorio.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Tiled/props.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/tierra.tsx": {
+            "scaleInDock": 1
+        },
+        "nivel_laboratorio.tmx": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 461.5,
+                "y": 277.5
+            }
+        },
+        "nivel_villa.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 494.33333333333337,
+                "y": 319.66666666666663
+            }
+        },
+        "nivel_villa.tmx#tierra": {
+            "scaleInDock": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tierra.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/javie/OneDrive/Escritorio/100 pieldelobo/Pieldelobo/assets",
+    "last.externalTilesetPath": "C:/Users/javie/OneDrive/Escritorio/100 pieldelobo/Pieldelobo/assets/Tiled",
+    "last.imagePath": "C:/Users/javie/OneDrive/Escritorio/100 pieldelobo/Pieldelobo/assets/Tiled/Laboratorio/32x32",
+    "map.lastUsedExportFilter": "Todos los archivos (*)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "nivel_laboratorio.tmx",
+        "Laboratorio.tsx",
+        "Suelos_Laboratorio.tsx"
+    ],
+    "project": "Mapas.tiled-project",
+    "recentFiles": [
+        "Suelos_Laboratorio.tsx",
+        "Laboratorio.tsx",
+        "nivel_laboratorio.tmx",
+        "tierra.tsx",
+        "props.tsx",
+        "nivel_villa.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}

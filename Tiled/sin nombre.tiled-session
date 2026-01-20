@@ -1,0 +1,45 @@
+{
+    "activeFile": "nivel villa.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "nivel villa.tmx": {
+            "scale": 0.06904296874999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 253.4653465346537,
+                "y": 0
+            }
+        },
+        "nivel villa.tmx#tierra": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "nivel_villa.tmx": {
+            "scale": 0.06904296874999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 253.4653465346537,
+                "y": 0
+            }
+        },
+        "nivel_villa.tmx#tierra": {
+            "scaleInDock": 1
+        },
+        "props.tsx": {
+            "scaleInDock": 1
+        },
+        "tierra.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "nivel_villa.tmx",
+        "nivel villa.tmx"
+    ],
+    "recentFiles": [
+        "nivel_villa.tmx",
+        "nivel villa.tmx"
+    ]
+}
