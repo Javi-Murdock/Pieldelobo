@@ -4,7 +4,7 @@ import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import io.github.javiergames.pieldelobo.Main;
+import io.github.javiergames.pieldelobo.GestorJuego.Main;
 
 /** Launches the Android application. */
 public class AndroidLauncher extends AndroidApplication {
